@@ -35,8 +35,9 @@ By leveraging **machine learning**, this project helps businesses **optimize log
 
 ### **3️⃣ Exploratory Data Analysis (EDA) & Key Insights**  
 - **Warehouse Block F had the highest number of delays** 🚧  
-- **Low-importance products were delayed more often** 📦  
-- **Ship mode contributed to higher delays** ⏳
+- **Low-importance products were delayed more often** 📦
+    
+  #### **Ship mode contributed to higher delays** ⏳
   
 ![image](https://github.com/user-attachments/assets/6921d603-ed25-4db5-a42f-7f32c64b3ab9)
 
