@@ -65,7 +65,8 @@ I tested **four ML algorithms** to find the most accurate model:
 
 ✅ **Regression Tree had the highest accuracy (68.45%)**, making it the best model for predicting late deliveries.  
 
----
+--- ![image](https://github.com/user-attachments/assets/04f7b6a8-7a25-4a2a-a0e5-476a6718dad9)
+
 
 ## 🔬 Model Insights  
 ✔ **K-Nearest Neighbors (KNN):** Identified **Warehouse & Shipping Mode** as key factors.  
