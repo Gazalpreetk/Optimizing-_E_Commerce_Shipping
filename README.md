@@ -40,6 +40,9 @@ By leveraging **machine learning**, this project helps businesses **optimize log
  
 - **Low-importance products were delayed more often** 📦
   
+  ![image](https://github.com/user-attachments/assets/6398be3b-874a-4e54-875a-ba903dbcbe63)
+
+  
 - **Ship mode contributed to higher delays** ⏳
   
 #### ![image](https://github.com/user-attachments/assets/6921d603-ed25-4db5-a42f-7f32c64b3ab9)
