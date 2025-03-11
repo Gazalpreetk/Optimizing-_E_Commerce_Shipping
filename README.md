@@ -75,10 +75,10 @@ I tested **four ML algorithms** to find the most accurate model:
 
 ---
 
-## 🖥️ How to Run This Project  
-
-### **1️⃣ Clone the Repository**  
-```bash
-git clone https://github.com/your-username/ecommerce-shipping-prediction.git
-cd ecommerce-shipping-prediction
+##  ✅ Conclusion
+### 🎯 Key Takeaways:
+- Warehouse Block F needs process optimization – It caused significant delays.
+- Shipping Mode & Product Importance impact delays – High-priority items were delivered faster.
+- Regression Tree (68.45% accuracy) is the best model – It can help predict delivery issues.
+- Businesses can use this model to optimize shipping, reduce delays, and enhance customer satisfaction.
 
